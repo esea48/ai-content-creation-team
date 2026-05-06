@@ -1,6 +1,6 @@
 # SRH University - AI Content Creator
 
-A AI-powered content generator for SRH-branded marketing and admissions copy.
+An AI-powered content generator for SRH-branded marketing and admissions copy.
 
 The workflow is simple:
 - `PRIMARY` knowledge is the source of truth for SRH facts and brand rules.
